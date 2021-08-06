@@ -1,3 +1,5 @@
+https://www.dropbox.com/s/lr59qkr1aefu2yj/firefox-browser-profile.tar.bz2.gpg?dl=0
+
 tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
 gpg -c firefox-browser-profile.tar.bz2
 rm -rf ~/.mozilla
