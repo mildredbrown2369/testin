@@ -1,4 +1,4 @@
-
+tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
 kefowot318
 jebafod369
 janefo4694
