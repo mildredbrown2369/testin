@@ -1,7 +1,8 @@
 novaki3965
 lolime5268
 
-
+tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
+gpg -c firefox-browser-profile.tar.bz2
 rivah74642
 mebic31670
 
