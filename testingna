@@ -1,12 +1,3 @@
-novaki3965
-lolime5268
-
-tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
-gpg -c firefox-browser-profile.tar.bz2
-rivah74642
-mebic31670
-
-
 Part 1 IDs >>>>> 10
 https://www.dropbox.com/sh/4pqy1s6t0e8by5b/AAAXRJEJ4PwPXJudzgOcqRBna?dl=0
 
@@ -20,3 +11,15 @@ gpg firefox-browser-profile.tar.bz2.gpg
 tar -xvf firefox-browser-profile.tar.bz2
 
 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------
+Not for your use +------------------------- Apke Istamal k lye nahi
+
+tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
+gpg -c firefox-browser-profile.tar.bz2
